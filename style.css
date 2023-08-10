@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-section {
+    height: auto;
+    width: 85vw;
+    margin: 4rem auto;
+    padding: 2em 0;
+    border-bottom: 1px solid cyan;
+}
+
+.job-opening {
+    min-height: 80vh;
+    width: 100%;
+    background: #f7f7f7;
+    padding: 2rem;
+}
+
+.cards-container {
+    width: 85vw;
+    min-height: 60vh;
+    margin: 3.5rem auto;
+}
+
+.cards-container .card {
+    height: 100%;
+    padding: 2rem 0;
+    margin-top: 1rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.list {
+    margin: auto;
+}
